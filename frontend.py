@@ -98,6 +98,7 @@ class Calculator:
                         font="Dublin 20",
                         padding=10)
                                                     # below are all existing buttons
+                                                    # their size, "name", and placement
         self.number_entered = ttk.Entry(window,
                                         textvariable=self.entered_value, width=40)
         self.number_entered.grid(row=0, columnspan=3)
