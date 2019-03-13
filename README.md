@@ -1,5 +1,5 @@
-#Calculator
-####This is calculator with basic mathematical operations, which allows you to :
+# Calculator
+#### This is calculator with basic mathematical operations, which allows you to :
 "+" add
 
 "-"  subtract
